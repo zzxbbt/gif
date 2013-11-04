@@ -22,4 +22,4 @@ You also need the *envy* python module:
 
     ./ekron.py -i dQw4w9WgXcQ.mp4 -o rick.gif -s 00:00:05.5 -e 00:00:07.0
 
-![rick](FIXME)
+![rick](https://raw.github.com/kaikuehne/gif/master/rick.gif)
