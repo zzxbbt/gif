@@ -16,7 +16,7 @@ Install ffmpeg using your package manager, e.g. brew or apt-get:
 
 You also need the *envy* python module:
 
-    pip install -Ur envoy
+    pip install -U envoy
 
 ## Creating your first gif
 
